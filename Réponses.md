@@ -2,7 +2,7 @@
 * Nathan BENMERIDJA
 ## Exercice 1
 ### Q1
-*TCF4*
+GRCh37
 ### Q2
 Sur le chromosome 18
 ### Q3

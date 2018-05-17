@@ -14,10 +14,38 @@ La mutation est sur le brin anti sens.
 1. f = 0.3750
 2. f = 0.02478
 3. f = 0.000008164
+### Q5
+1. Pas de conséquence
+2. Dans un intron -> pas de conséquence protéique
+3. Apparition d'un codon stop, protéine potentiellement non fonctionnelle
+### Q6
+
 ## Exercice 2
 ### Q1
-* item1
-* item2
-* item3
+SHOX
 ### Q2
-[NM_001083962.1:c.1957_1958delTC in UCSC](http://example.com)
+Dans la dysplasie mésomélique de Langer (autosomique récessif)
+Dans la dyschondrostéose de Leri Weill (autosomique dominant)
+Petite taille idiopathique familliale 
+### Q3
+La petite taille du syndrome de Turner est due à la présence d'une seule copie de SHOX
+### Q4
+NC_000023.10:g.595474G>C
+### Q5
+NC = sur le génome
+000023 = chromosome 23
+10 = version du gène
+g = génomique
+595474 = position de la variation
+G>C = substitution G par C
+### Q6
+NM_000451.3(SHOX_i001):p.(Glu133Asp)
+### Q7
+NM = sur l'ADNc
+000451 = numéro du transcrit
+3 = version du transcrit 
+SHOX_i001 = gène impliqué
+p = protéique
+Glu133Asp = Glutamate en position 133 est remplacé par un Aspartate
+### Q8 
+
